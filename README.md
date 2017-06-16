@@ -1,3 +1,3 @@
 # Color-Vision-Deficiency-study
 
-Nothing here
+Go to "paper"
